@@ -1,0 +1,43 @@
+body{
+    background-color: #023e8a;   
+}
+.menu{
+    background-color:  #00b4d8;
+    height: 100px;
+    width: 100%;
+    
+}
+
+
+.principal{
+      background-color: #ade8f4; 
+      height: 150px;
+      width: 100%;
+      display: flex;
+    align-items: center;
+    justify-content: center;
+
+ }
+ .principal h1{
+    font-family: 'AR CHRISTY', sans-serif;
+    font-size: 48px;
+                
+ }
+ .rodape{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px;
+ }
+ .tabela{
+    height: 200px;
+    width: 500px;
+    background-color: #b8c0ff;
+ }
+ .formulario{
+    height: 200px;
+    width: 500px;
+    background-color: #90e0ef;
+    color: brown;
+ }
